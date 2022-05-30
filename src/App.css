@@ -1,0 +1,16 @@
+.contentDiv{
+  display: flex;
+
+  
+}
+.leftContent{
+  width: 80%;
+ 
+  
+
+}
+
+.rightContent{
+  width: 20%;
+  height: auto;
+}
